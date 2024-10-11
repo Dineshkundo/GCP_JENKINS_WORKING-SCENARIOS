@@ -21,3 +21,6 @@ NOTE: if this script throw any error ther run it again.
 =================================================================
 
 for password: sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+# for more follow the blog post 
+https://blog.kubekode.org/setup-and-install-jenkins-on-gcp-vm
